@@ -1,0 +1,16 @@
+Modex-MH-Agent Portable Release
+
+版本日期: 2026-06-28
+压缩包: Modex-MH-Agent-portable-20260628.zip
+大小: 2.38 GB (2,560,674,028 bytes)
+SHA256: 2BC8CADDB13E1337417698C4292BA55857782ECA8781CB13A9FC4A0D9025B32B
+
+使用方法:
+1. 下载 Modex-MH-Agent-portable-20260628.zip。
+2. 解压整个 Modex-MH-Agent 文件夹，不要只拖出单个 exe。
+3. 双击 Modex-MH-Agent\Modex-MH-Agent.exe 启动。
+
+说明:
+- 这是便携版打包，已包含运行环境和资源文件。
+- 如果 Windows 提示未知发布者，选择“更多信息”后继续运行即可。
+- 如需对外发布，建议同时在下载页标注上面的 SHA256，方便用户校验下载完整性。
